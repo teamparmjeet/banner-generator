@@ -1,0 +1,6 @@
+{
+  "name": "BannerCraft - Professional Banner Designer",
+  "description": "Create customizable professional banners, social media graphics, and web ads with precision typography, image filters, and high-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
